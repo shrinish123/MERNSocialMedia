@@ -1,5 +1,5 @@
 module.exports ={
     env:{
-        CLOUDINARY_URL : "https://res.cloudinary.com/dk96bclgg/image/upload/"
+        CLOUDINARY_URL : "https://api.cloudinary.com/v1_1/dk96bclgg/image/upload/"
     }
 }
